@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "productName": "Tomato",
+      "makat": "732923",
+      "id": 1
+    },
+    {
+      "productName": "Tomato2e23",
+      "makat": "732923",
+      "id": 2
+    },
+    {
+      "productName": "Tomato42fdsf",
+      "makat": "732923ad",
+      "id": 3
+    },
+    {
+      "productName": "Tomato",
+      "makat": "732923",
+      "id": 4
+    }
+  ]
+}
